@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 💬 Ask me about **Java, Spring Boot and Azure**
+- 💬 Ask me about **Java, 3DExperience, Development, Git**
 
 - 📫 How to reach me **kulkarni.aditya12@gmail.com**
 
