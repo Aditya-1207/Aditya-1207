@@ -11,8 +11,7 @@
 
 - 💬 Ask me about **Java, 3DExperience, Development, Git**
 
-- 📫 How to reach me **kulkarni.aditya12@gmail.com**
-
+- 📫 How to reach me 
 - 📄 Know about my experiences [https://resume.io/r/pOOHpOaVJ](https://resume.io/r/pOOHpOaVJ)
 
 <h3 align="left">Connect with me:</h3>
